@@ -20,6 +20,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/unaizanouman/leet_codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
 ## String
 |  |
 | ------- |
@@ -28,4 +29,16 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/unaizanouman/leet_codes/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
