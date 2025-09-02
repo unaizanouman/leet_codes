@@ -11,6 +11,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/unaizanouman/leet_codes/tree/master/0007-reverse-integer) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/unaizanouman/leet_codes/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Recursion
