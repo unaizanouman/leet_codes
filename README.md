@@ -14,6 +14,7 @@ Contains all my solved leet-code problems
 | [0007-reverse-integer](https://github.com/unaizanouman/leet_codes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/unaizanouman/leet_codes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/unaizanouman/leet_codes/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/unaizanouman/leet_codes/tree/master/0013-roman-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/unaizanouman/leet_codes/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -28,6 +29,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/unaizanouman/leet_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/unaizanouman/leet_codes/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/unaizanouman/leet_codes/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
 ## String
 |  |
@@ -37,6 +39,7 @@ Contains all my solved leet-code problems
 | [0006-zigzag-conversion](https://github.com/unaizanouman/leet_codes/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/unaizanouman/leet_codes/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/unaizanouman/leet_codes/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/unaizanouman/leet_codes/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
