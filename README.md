@@ -14,6 +14,7 @@ Contains all my solved leet-code problems
 | [0007-reverse-integer](https://github.com/unaizanouman/leet_codes/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/unaizanouman/leet_codes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/unaizanouman/leet_codes/tree/master/0012-integer-to-roman) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/unaizanouman/leet_codes/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/unaizanouman/leet_codes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -46,6 +47,7 @@ Contains all my solved leet-code problems
 | [0004-median-of-two-sorted-arrays](https://github.com/unaizanouman/leet_codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/unaizanouman/leet_codes/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/unaizanouman/leet_codes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Backtracking
