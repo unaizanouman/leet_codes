@@ -52,6 +52,7 @@ Contains all my solved leet-code problems
 | [0004-median-of-two-sorted-arrays](https://github.com/unaizanouman/leet_codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/unaizanouman/leet_codes/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/unaizanouman/leet_codes/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/unaizanouman/leet_codes/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -77,6 +78,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/unaizanouman/leet_codes/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/unaizanouman/leet_codes/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/unaizanouman/leet_codes/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Contains all my solved leet-code problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/unaizanouman/leet_codes/tree/master/0015-3sum) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
