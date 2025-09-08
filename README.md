@@ -16,6 +16,7 @@ Contains all my solved leet-code problems
 | [0012-integer-to-roman](https://github.com/unaizanouman/leet_codes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/unaizanouman/leet_codes/tree/master/0013-roman-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/unaizanouman/leet_codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/unaizanouman/leet_codes/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/unaizanouman/leet_codes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
