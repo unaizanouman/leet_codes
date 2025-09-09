@@ -83,6 +83,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/unaizanouman/leet_codes/tree/master/0005-longest-palindromic-substring) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/unaizanouman/leet_codes/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Geometry
 |  |
 | ------- |
@@ -108,4 +109,12 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/unaizanouman/leet_codes/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/unaizanouman/leet_codes/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/unaizanouman/leet_codes/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
