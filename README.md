@@ -32,6 +32,7 @@ Contains all my solved leet-code problems
 | [0012-integer-to-roman](https://github.com/unaizanouman/leet_codes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/unaizanouman/leet_codes/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/unaizanouman/leet_codes/tree/master/1834-minimum-number-of-people-to-teach) |
 ## String
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Contains all my solved leet-code problems
 | [0015-3sum](https://github.com/unaizanouman/leet_codes/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/unaizanouman/leet_codes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/unaizanouman/leet_codes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Backtracking
@@ -105,6 +107,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/unaizanouman/leet_codes/tree/master/0011-container-with-most-water) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/unaizanouman/leet_codes/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Trie
 |  |
 | ------- |
