@@ -43,6 +43,7 @@ Contains all my solved leet-code problems
 | [0012-integer-to-roman](https://github.com/unaizanouman/leet_codes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/unaizanouman/leet_codes/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/unaizanouman/leet_codes/tree/master/0014-longest-common-prefix) |
+| [2887-sort-vowels-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/2887-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/unaizanouman/leet_codes/tree/master/0015-3sum) |
+| [2887-sort-vowels-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
