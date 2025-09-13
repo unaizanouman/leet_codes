@@ -62,6 +62,7 @@ Contains all my solved leet-code problems
 | [0014-longest-common-prefix](https://github.com/unaizanouman/leet_codes/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/unaizanouman/leet_codes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/unaizanouman/leet_codes/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/unaizanouman/leet_codes/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/unaizanouman/leet_codes/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -91,6 +92,7 @@ Contains all my solved leet-code problems
 | [0011-container-with-most-water](https://github.com/unaizanouman/leet_codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/unaizanouman/leet_codes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/unaizanouman/leet_codes/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/unaizanouman/leet_codes/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [0015-3sum](https://github.com/unaizanouman/leet_codes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/unaizanouman/leet_codes/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/unaizanouman/leet_codes/tree/master/0018-4sum) |
 | [2887-sort-vowels-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
