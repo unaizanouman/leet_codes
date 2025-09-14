@@ -8,6 +8,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/unaizanouman/leet_codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/unaizanouman/leet_codes/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/unaizanouman/leet_codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/unaizanouman/leet_codes/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,4 +154,12 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/unaizanouman/leet_codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/unaizanouman/leet_codes/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/unaizanouman/leet_codes/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
