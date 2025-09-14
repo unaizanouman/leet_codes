@@ -34,6 +34,7 @@ Contains all my solved leet-code problems
 | [0013-roman-to-integer](https://github.com/unaizanouman/leet_codes/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/unaizanouman/leet_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
+| [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/unaizanouman/leet_codes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/unaizanouman/leet_codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -47,6 +48,7 @@ Contains all my solved leet-code problems
 | [0013-roman-to-integer](https://github.com/unaizanouman/leet_codes/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/unaizanouman/leet_codes/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/unaizanouman/leet_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
 | [2887-sort-vowels-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/unaizanouman/leet_codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -64,6 +66,7 @@ Contains all my solved leet-code problems
 | [0016-3sum-closest](https://github.com/unaizanouman/leet_codes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/unaizanouman/leet_codes/tree/master/0018-4sum) |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
+| [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/unaizanouman/leet_codes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
