@@ -37,6 +37,7 @@ Contains all my solved leet-code problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/unaizanouman/leet_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/unaizanouman/leet_codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/unaizanouman/leet_codes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/unaizanouman/leet_codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -51,6 +52,7 @@ Contains all my solved leet-code problems
 | [0014-longest-common-prefix](https://github.com/unaizanouman/leet_codes/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/unaizanouman/leet_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/unaizanouman/leet_codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/unaizanouman/leet_codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
