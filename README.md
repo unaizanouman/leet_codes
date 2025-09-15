@@ -51,6 +51,7 @@ Contains all my solved leet-code problems
 | [0013-roman-to-integer](https://github.com/unaizanouman/leet_codes/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/unaizanouman/leet_codes/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/unaizanouman/leet_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0020-valid-parentheses) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/unaizanouman/leet_codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/2887-sort-vowels-in-a-string) |
@@ -164,4 +165,8 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/unaizanouman/leet_codes/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
