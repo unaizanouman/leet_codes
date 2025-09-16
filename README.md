@@ -8,6 +8,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/unaizanouman/leet_codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/unaizanouman/leet_codes/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/unaizanouman/leet_codes/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
@@ -29,6 +30,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/unaizanouman/leet_codes/tree/master/0021-merge-two-sorted-lists) |
 ## Hash Table
 |  |
 | ------- |
