@@ -55,6 +55,7 @@ Contains all my solved leet-code problems
 | [0014-longest-common-prefix](https://github.com/unaizanouman/leet_codes/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/unaizanouman/leet_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0022-generate-parentheses) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/unaizanouman/leet_codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/2887-sort-vowels-in-a-string) |
@@ -84,6 +85,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/unaizanouman/leet_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
 ## Matrix
 |  |
@@ -111,6 +113,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/unaizanouman/leet_codes/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0022-generate-parentheses) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/unaizanouman/leet_codes/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Geometry
 |  |
