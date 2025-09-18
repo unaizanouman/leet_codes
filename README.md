@@ -45,6 +45,7 @@ Contains all my solved leet-code problems
 | [1264-maximum-number-of-words-you-can-type](https://github.com/unaizanouman/leet_codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/unaizanouman/leet_codes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/unaizanouman/leet_codes/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/unaizanouman/leet_codes/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/unaizanouman/leet_codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -174,6 +175,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/unaizanouman/leet_codes/tree/master/0023-merge-k-sorted-lists) |
 | [2429-design-a-food-rating-system](https://github.com/unaizanouman/leet_codes/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/unaizanouman/leet_codes/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -191,8 +193,10 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/unaizanouman/leet_codes/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/unaizanouman/leet_codes/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/unaizanouman/leet_codes/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/unaizanouman/leet_codes/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
