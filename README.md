@@ -97,6 +97,7 @@ Contains all my solved leet-code problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unaizanouman/leet_codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/unaizanouman/leet_codes/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/unaizanouman/leet_codes/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/unaizanouman/leet_codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -123,6 +124,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/unaizanouman/leet_codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/unaizanouman/leet_codes/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
