@@ -103,6 +103,7 @@ Contains all my solved leet-code problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/unaizanouman/leet_codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/unaizanouman/leet_codes/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
+| [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0830-largest-triangle-area](https://github.com/unaizanouman/leet_codes/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
@@ -152,6 +153,7 @@ Contains all my solved leet-code problems
 | [0027-remove-element](https://github.com/unaizanouman/leet_codes/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/unaizanouman/leet_codes/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0165-compare-version-numbers) |
 ## Dynamic Programming
 |  |
@@ -173,6 +175,7 @@ Contains all my solved leet-code problems
 | [0015-3sum](https://github.com/unaizanouman/leet_codes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/unaizanouman/leet_codes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/unaizanouman/leet_codes/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/unaizanouman/leet_codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
