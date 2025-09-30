@@ -27,6 +27,7 @@ Contains all my solved leet-code problems
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/unaizanouman/leet_codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/unaizanouman/leet_codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/unaizanouman/leet_codes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/unaizanouman/leet_codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/unaizanouman/leet_codes/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -113,6 +114,7 @@ Contains all my solved leet-code problems
 | [1834-minimum-number-of-people-to-teach](https://github.com/unaizanouman/leet_codes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/unaizanouman/leet_codes/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/unaizanouman/leet_codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/unaizanouman/leet_codes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/unaizanouman/leet_codes/tree/master/2429-design-a-food-rating-system) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/unaizanouman/leet_codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -208,6 +210,7 @@ Contains all my solved leet-code problems
 ## Simulation
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/unaizanouman/leet_codes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/unaizanouman/leet_codes/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Brainteaser
 |  |
@@ -259,4 +262,8 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/unaizanouman/leet_codes/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
