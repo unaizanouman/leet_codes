@@ -76,6 +76,7 @@ Contains all my solved leet-code problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/unaizanouman/leet_codes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/unaizanouman/leet_codes/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
