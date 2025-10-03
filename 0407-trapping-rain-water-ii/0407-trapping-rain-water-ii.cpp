@@ -3,13 +3,11 @@ public:
     int trapRainWater(vector<vector<int>>& heightMap) {
         int m = heightMap.size();
         int n = heightMap[0].size();
-        if (m <= 2 || n <= 2) return 0; // no water can be trapped
+        if (m <= 2 || n <= 2) return 0; 
 
-        // Min-heap {height, row, col}
         priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
         vector<vector<bool>> visited(m, vector<bool>(n, false));
 
-        // Push all boundary cells into heap
         for (int i = 0; i < m; i++) {
             pq.push({heightMap[i][0], i, 0});
             pq.push({heightMap[i][n-1], i, n-1});
@@ -28,16 +26,14 @@ public:
             auto top = pq.top(); pq.pop();
             int h = top[0], r = top[1], c = top[2];
 
-            // check 4 directions
             for (int k = 0; k < 4; k++) {
                 int nr = r + dirs[k], nc = c + dirs[k+1];
                 if (nr >= 0 && nr < m && nc >= 0 && nc < n && !visited[nr][nc]) {
                     visited[nr][nc] = true;
-                    // If neighbor lower → water trapped
+
                     if (heightMap[nr][nc] < h) {
                         water += h - heightMap[nr][nc];
                     }
-                    // Push with max boundary
                     pq.push({max(h, heightMap[nr][nc]), nr, nc});
                 }
             }
