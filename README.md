@@ -109,6 +109,7 @@ Contains all my solved leet-code problems
 | [0035-search-insert-position](https://github.com/unaizanouman/leet_codes/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/unaizanouman/leet_codes/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/unaizanouman/leet_codes/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0830-largest-triangle-area](https://github.com/unaizanouman/leet_codes/tree/master/0830-largest-triangle-area) |
@@ -132,6 +133,7 @@ Contains all my solved leet-code problems
 | [0022-generate-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/unaizanouman/leet_codes/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/unaizanouman/leet_codes/tree/master/0040-combination-sum-ii) |
 ## Matrix
 |  |
 | ------- |
