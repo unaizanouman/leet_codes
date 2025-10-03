@@ -16,8 +16,8 @@ private:
             return;
         }
         for (int i = start; i < candidates.size(); i++) {
-            if (i > start && candidates[i] == candidates[i-1]) continue; // skip duplicates
-            if (candidates[i] > target) break; // no need to continue
+            if (i > start && candidates[i] == candidates[i-1]) continue; 
+            if (candidates[i] > target) break; 
             curr.push_back(candidates[i]);
             backtrack(candidates, target - candidates[i], i + 1, curr, ans);
             curr.pop_back();
