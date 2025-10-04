@@ -112,6 +112,7 @@ Contains all my solved leet-code problems
 | [0039-combination-sum](https://github.com/unaizanouman/leet_codes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/unaizanouman/leet_codes/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/unaizanouman/leet_codes/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0830-largest-triangle-area](https://github.com/unaizanouman/leet_codes/tree/master/0830-largest-triangle-area) |
@@ -167,6 +168,7 @@ Contains all my solved leet-code problems
 | [0027-remove-element](https://github.com/unaizanouman/leet_codes/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/unaizanouman/leet_codes/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0165-compare-version-numbers) |
 ## Dynamic Programming
@@ -175,6 +177,7 @@ Contains all my solved leet-code problems
 | [0005-longest-palindromic-substring](https://github.com/unaizanouman/leet_codes/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/unaizanouman/leet_codes/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/unaizanouman/leet_codes/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Geometry
@@ -254,6 +257,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/unaizanouman/leet_codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -284,4 +288,8 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
