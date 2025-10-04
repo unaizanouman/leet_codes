@@ -21,6 +21,7 @@ Contains all my solved leet-code problems
 | [0009-palindrome-number](https://github.com/unaizanouman/leet_codes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/unaizanouman/leet_codes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/unaizanouman/leet_codes/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/unaizanouman/leet_codes/tree/master/0043-multiply-strings) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/unaizanouman/leet_codes/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
@@ -79,6 +80,7 @@ Contains all my solved leet-code problems
 | [0030-substring-with-concatenation-of-all-words](https://github.com/unaizanouman/leet_codes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/unaizanouman/leet_codes/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/unaizanouman/leet_codes/tree/master/0043-multiply-strings) |
 | [0165-compare-version-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
@@ -224,6 +226,7 @@ Contains all my solved leet-code problems
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/unaizanouman/leet_codes/tree/master/0043-multiply-strings) |
 | [1642-water-bottles](https://github.com/unaizanouman/leet_codes/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/unaizanouman/leet_codes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/unaizanouman/leet_codes/tree/master/2408-number-of-people-aware-of-a-secret) |
