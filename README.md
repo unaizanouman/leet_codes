@@ -52,6 +52,7 @@ Contains all my solved leet-code problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/unaizanouman/leet_codes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/unaizanouman/leet_codes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/unaizanouman/leet_codes/tree/master/0041-first-missing-positive) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/unaizanouman/leet_codes/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -110,6 +111,7 @@ Contains all my solved leet-code problems
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/unaizanouman/leet_codes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/unaizanouman/leet_codes/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/unaizanouman/leet_codes/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0830-largest-triangle-area](https://github.com/unaizanouman/leet_codes/tree/master/0830-largest-triangle-area) |
