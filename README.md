@@ -116,6 +116,7 @@ Contains all my solved leet-code problems
 | [0040-combination-sum-ii](https://github.com/unaizanouman/leet_codes/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/unaizanouman/leet_codes/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/unaizanouman/leet_codes/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
@@ -185,6 +186,7 @@ Contains all my solved leet-code problems
 | [0022-generate-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/unaizanouman/leet_codes/tree/master/0045-jump-game-ii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/unaizanouman/leet_codes/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/unaizanouman/leet_codes/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Geometry
@@ -218,6 +220,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/unaizanouman/leet_codes/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/unaizanouman/leet_codes/tree/master/0045-jump-game-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/unaizanouman/leet_codes/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/unaizanouman/leet_codes/tree/master/1834-minimum-number-of-people-to-teach) |
