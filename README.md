@@ -131,6 +131,7 @@ Contains all my solved leet-code problems
 | [2023-design-movie-rental-system](https://github.com/unaizanouman/leet_codes/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/unaizanouman/leet_codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/unaizanouman/leet_codes/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/unaizanouman/leet_codes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/unaizanouman/leet_codes/tree/master/2429-design-a-food-rating-system) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/unaizanouman/leet_codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -160,6 +161,7 @@ Contains all my solved leet-code problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/unaizanouman/leet_codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/unaizanouman/leet_codes/tree/master/0035-search-insert-position) |
 | [1612-avoid-flood-in-the-city](https://github.com/unaizanouman/leet_codes/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/unaizanouman/leet_codes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Contains all my solved leet-code problems
 | [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0165-compare-version-numbers) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/unaizanouman/leet_codes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +209,7 @@ Contains all my solved leet-code problems
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/unaizanouman/leet_codes/tree/master/0147-insertion-sort-list) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/unaizanouman/leet_codes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/unaizanouman/leet_codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
