@@ -55,6 +55,7 @@ Contains all my solved leet-code problems
 | [0030-substring-with-concatenation-of-all-words](https://github.com/unaizanouman/leet_codes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/unaizanouman/leet_codes/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/unaizanouman/leet_codes/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -84,6 +85,7 @@ Contains all my solved leet-code problems
 | [0032-longest-valid-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/unaizanouman/leet_codes/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/unaizanouman/leet_codes/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
@@ -122,6 +124,7 @@ Contains all my solved leet-code problems
 | [0046-permutations](https://github.com/unaizanouman/leet_codes/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/unaizanouman/leet_codes/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/unaizanouman/leet_codes/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
@@ -219,6 +222,7 @@ Contains all my solved leet-code problems
 | [0016-3sum-closest](https://github.com/unaizanouman/leet_codes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/unaizanouman/leet_codes/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/unaizanouman/leet_codes/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/unaizanouman/leet_codes/tree/master/0147-insertion-sort-list) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
