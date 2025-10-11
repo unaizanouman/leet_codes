@@ -2,7 +2,7 @@ class Solution {
 public:
     long long maximumTotalDamage(vector<int>& power) {
         unordered_map<int,long long> freq;
-        for(int p:power) freq[p]+=p; // total damage for same power values
+        for(int p:power) freq[p]+=p;
         
         vector<long long> vals;
         for(auto &x:freq) vals.push_back(x.first);
@@ -15,7 +15,6 @@ public:
         for(int i=1;i<n;i++){
             long long take=freq[vals[i]];
             int j=i-1;
-            // find previous value not in [vals[i]-2, vals[i]-1, vals[i]+1, vals[i]+2]
             while(j>=0 && vals[i]-vals[j]<=2) j--;
             if(j>=0) take+=dp[j];
             dp[i]=max(dp[i-1],take);
