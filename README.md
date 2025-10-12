@@ -23,6 +23,7 @@ Contains all my solved leet-code problems
 | [0013-roman-to-integer](https://github.com/unaizanouman/leet_codes/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/unaizanouman/leet_codes/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/unaizanouman/leet_codes/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/unaizanouman/leet_codes/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/unaizanouman/leet_codes/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
@@ -46,6 +47,7 @@ Contains all my solved leet-code problems
 | [0021-merge-two-sorted-lists](https://github.com/unaizanouman/leet_codes/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/unaizanouman/leet_codes/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/unaizanouman/leet_codes/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/unaizanouman/leet_codes/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
