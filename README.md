@@ -130,6 +130,7 @@ Contains all my solved leet-code problems
 | [0047-permutations-ii](https://github.com/unaizanouman/leet_codes/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/unaizanouman/leet_codes/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/unaizanouman/leet_codes/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
@@ -164,6 +165,7 @@ Contains all my solved leet-code problems
 | [0040-combination-sum-ii](https://github.com/unaizanouman/leet_codes/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/unaizanouman/leet_codes/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/unaizanouman/leet_codes/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/unaizanouman/leet_codes/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
