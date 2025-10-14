@@ -132,6 +132,7 @@ Contains all my solved leet-code problems
 | [0049-group-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/unaizanouman/leet_codes/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/unaizanouman/leet_codes/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
@@ -174,6 +175,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [0037-sudoku-solver](https://github.com/unaizanouman/leet_codes/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/unaizanouman/leet_codes/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0054-spiral-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [3797-design-spreadsheet](https://github.com/unaizanouman/leet_codes/tree/master/3797-design-spreadsheet) |
@@ -277,6 +279,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/unaizanouman/leet_codes/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/unaizanouman/leet_codes/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/unaizanouman/leet_codes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/unaizanouman/leet_codes/tree/master/2408-number-of-people-aware-of-a-secret) |
