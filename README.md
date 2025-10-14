@@ -131,6 +131,7 @@ Contains all my solved leet-code problems
 | [0048-rotate-image](https://github.com/unaizanouman/leet_codes/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/unaizanouman/leet_codes/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/unaizanouman/leet_codes/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
@@ -191,6 +192,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/unaizanouman/leet_codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/unaizanouman/leet_codes/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/unaizanouman/leet_codes/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -217,6 +219,7 @@ Contains all my solved leet-code problems
 | [0032-longest-valid-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/unaizanouman/leet_codes/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/unaizanouman/leet_codes/tree/master/0053-maximum-subarray) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/unaizanouman/leet_codes/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/unaizanouman/leet_codes/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/unaizanouman/leet_codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
