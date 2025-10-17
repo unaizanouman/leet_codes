@@ -136,6 +136,7 @@ Contains all my solved leet-code problems
 | [0051-n-queens](https://github.com/unaizanouman/leet_codes/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/unaizanouman/leet_codes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/unaizanouman/leet_codes/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
@@ -228,6 +229,7 @@ Contains all my solved leet-code problems
 | [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/unaizanouman/leet_codes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/unaizanouman/leet_codes/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/unaizanouman/leet_codes/tree/master/0055-jump-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/unaizanouman/leet_codes/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/unaizanouman/leet_codes/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -272,6 +274,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/unaizanouman/leet_codes/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/unaizanouman/leet_codes/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/unaizanouman/leet_codes/tree/master/0055-jump-game) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/unaizanouman/leet_codes/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/unaizanouman/leet_codes/tree/master/1834-minimum-number-of-people-to-teach) |
