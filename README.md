@@ -139,6 +139,7 @@ Contains all my solved leet-code problems
 | [0053-maximum-subarray](https://github.com/unaizanouman/leet_codes/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/unaizanouman/leet_codes/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/unaizanouman/leet_codes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
@@ -253,6 +254,7 @@ Contains all my solved leet-code problems
 | [0018-4sum](https://github.com/unaizanouman/leet_codes/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/unaizanouman/leet_codes/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/unaizanouman/leet_codes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/unaizanouman/leet_codes/tree/master/0147-insertion-sort-list) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
