@@ -39,6 +39,7 @@ Contains all my solved leet-code problems
 | [3336-water-bottles-ii](https://github.com/unaizanouman/leet_codes/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/unaizanouman/leet_codes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/unaizanouman/leet_codes/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/unaizanouman/leet_codes/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/unaizanouman/leet_codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
@@ -103,6 +104,7 @@ Contains all my solved leet-code problems
 | [2887-sort-vowels-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/3462-vowels-game-in-a-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/unaizanouman/leet_codes/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/unaizanouman/leet_codes/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/unaizanouman/leet_codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
@@ -315,6 +317,7 @@ Contains all my solved leet-code problems
 | [2324-find-triangular-sum-of-an-array](https://github.com/unaizanouman/leet_codes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/unaizanouman/leet_codes/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/unaizanouman/leet_codes/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/unaizanouman/leet_codes/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/unaizanouman/leet_codes/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Brainteaser
 |  |
@@ -353,6 +356,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/unaizanouman/leet_codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/unaizanouman/leet_codes/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
 | ------- |
@@ -374,6 +378,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/unaizanouman/leet_codes/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/unaizanouman/leet_codes/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/unaizanouman/leet_codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Breadth-First Search
 |  |
