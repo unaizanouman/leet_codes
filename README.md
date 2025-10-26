@@ -12,6 +12,7 @@ Contains all my solved leet-code problems
 | [0023-merge-k-sorted-lists](https://github.com/unaizanouman/leet_codes/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/unaizanouman/leet_codes/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/unaizanouman/leet_codes/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/unaizanouman/leet_codes/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/unaizanouman/leet_codes/tree/master/0147-insertion-sort-list) |
 ## Math
 |  |
@@ -241,6 +242,7 @@ Contains all my solved leet-code problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/unaizanouman/leet_codes/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/unaizanouman/leet_codes/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0165-compare-version-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/unaizanouman/leet_codes/tree/master/2392-successful-pairs-of-spells-and-potions) |
