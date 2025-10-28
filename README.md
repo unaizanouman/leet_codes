@@ -27,6 +27,7 @@ Contains all my solved leet-code problems
 | [0050-powx-n](https://github.com/unaizanouman/leet_codes/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/unaizanouman/leet_codes/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/unaizanouman/leet_codes/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/unaizanouman/leet_codes/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/unaizanouman/leet_codes/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
@@ -158,6 +159,7 @@ Contains all my solved leet-code problems
 | [0057-insert-interval](https://github.com/unaizanouman/leet_codes/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/unaizanouman/leet_codes/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/unaizanouman/leet_codes/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/unaizanouman/leet_codes/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
