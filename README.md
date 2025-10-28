@@ -157,6 +157,7 @@ Contains all my solved leet-code problems
 | [0056-merge-intervals](https://github.com/unaizanouman/leet_codes/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/unaizanouman/leet_codes/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/unaizanouman/leet_codes/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/unaizanouman/leet_codes/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
@@ -211,6 +212,7 @@ Contains all my solved leet-code problems
 | [0048-rotate-image](https://github.com/unaizanouman/leet_codes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/unaizanouman/leet_codes/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/unaizanouman/leet_codes/tree/master/0063-unique-paths-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/unaizanouman/leet_codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -264,6 +266,7 @@ Contains all my solved leet-code problems
 | [0053-maximum-subarray](https://github.com/unaizanouman/leet_codes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/unaizanouman/leet_codes/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/unaizanouman/leet_codes/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/unaizanouman/leet_codes/tree/master/0063-unique-paths-ii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/unaizanouman/leet_codes/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/unaizanouman/leet_codes/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
