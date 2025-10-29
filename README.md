@@ -45,6 +45,7 @@ Contains all my solved leet-code problems
 | [3279-alice-and-bob-playing-flower-game](https://github.com/unaizanouman/leet_codes/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/unaizanouman/leet_codes/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/unaizanouman/leet_codes/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/unaizanouman/leet_codes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/unaizanouman/leet_codes/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/unaizanouman/leet_codes/tree/master/3830-find-closest-person) |
@@ -312,6 +313,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/unaizanouman/leet_codes/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/unaizanouman/leet_codes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/unaizanouman/leet_codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
