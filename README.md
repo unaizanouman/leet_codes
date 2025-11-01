@@ -14,6 +14,7 @@ Contains all my solved leet-code problems
 | [0025-reverse-nodes-in-k-group](https://github.com/unaizanouman/leet_codes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/unaizanouman/leet_codes/tree/master/0061-rotate-list) |
 | [0147-insertion-sort-list](https://github.com/unaizanouman/leet_codes/tree/master/0147-insertion-sort-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/unaizanouman/leet_codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Contains all my solved leet-code problems
 | [2429-design-a-food-rating-system](https://github.com/unaizanouman/leet_codes/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/unaizanouman/leet_codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/unaizanouman/leet_codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/unaizanouman/leet_codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/unaizanouman/leet_codes/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/unaizanouman/leet_codes/tree/master/3797-design-spreadsheet) |
@@ -190,6 +192,7 @@ Contains all my solved leet-code problems
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/unaizanouman/leet_codes/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/unaizanouman/leet_codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/unaizanouman/leet_codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/unaizanouman/leet_codes/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/unaizanouman/leet_codes/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/3616-make-array-elements-equal-to-zero) |
