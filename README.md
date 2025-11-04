@@ -113,6 +113,7 @@ Contains all my solved leet-code problems
 | [0058-length-of-last-word](https://github.com/unaizanouman/leet_codes/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/unaizanouman/leet_codes/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/unaizanouman/leet_codes/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/unaizanouman/leet_codes/tree/master/0068-text-justification) |
 | [0165-compare-version-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
@@ -172,6 +173,7 @@ Contains all my solved leet-code problems
 | [0063-unique-paths-ii](https://github.com/unaizanouman/leet_codes/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/unaizanouman/leet_codes/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/unaizanouman/leet_codes/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/unaizanouman/leet_codes/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
@@ -367,6 +369,7 @@ Contains all my solved leet-code problems
 | [0054-spiral-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/unaizanouman/leet_codes/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/unaizanouman/leet_codes/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/unaizanouman/leet_codes/tree/master/0068-text-justification) |
 | [1642-water-bottles](https://github.com/unaizanouman/leet_codes/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/unaizanouman/leet_codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/unaizanouman/leet_codes/tree/master/2169-simple-bank-system) |
