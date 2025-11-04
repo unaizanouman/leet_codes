@@ -111,6 +111,7 @@ Contains all my solved leet-code problems
 | [0043-multiply-strings](https://github.com/unaizanouman/leet_codes/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/unaizanouman/leet_codes/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/unaizanouman/leet_codes/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/unaizanouman/leet_codes/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
