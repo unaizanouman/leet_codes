@@ -91,6 +91,7 @@ Contains all my solved leet-code problems
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/unaizanouman/leet_codes/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/unaizanouman/leet_codes/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/unaizanouman/leet_codes/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/unaizanouman/leet_codes/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/unaizanouman/leet_codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -217,6 +218,7 @@ Contains all my solved leet-code problems
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/unaizanouman/leet_codes/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/unaizanouman/leet_codes/tree/master/3797-design-spreadsheet) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/unaizanouman/leet_codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/unaizanouman/leet_codes/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -408,6 +410,7 @@ Contains all my solved leet-code problems
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/unaizanouman/leet_codes/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/unaizanouman/leet_codes/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/unaizanouman/leet_codes/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/unaizanouman/leet_codes/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
 | ------- |
@@ -439,6 +442,7 @@ Contains all my solved leet-code problems
 | [2023-design-movie-rental-system](https://github.com/unaizanouman/leet_codes/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/unaizanouman/leet_codes/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/unaizanouman/leet_codes/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/unaizanouman/leet_codes/tree/master/3863-power-grid-maintenance) |
 ## String Matching
 |  |
 | ------- |
@@ -456,6 +460,7 @@ Contains all my solved leet-code problems
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/unaizanouman/leet_codes/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/unaizanouman/leet_codes/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -466,6 +471,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/unaizanouman/leet_codes/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/unaizanouman/leet_codes/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -479,4 +485,12 @@ Contains all my solved leet-code problems
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/unaizanouman/leet_codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Union Find
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/unaizanouman/leet_codes/tree/master/3863-power-grid-maintenance) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/unaizanouman/leet_codes/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
