@@ -10,9 +10,7 @@ public:
             }
             if (v > 0) {
                 if (st.empty() || st.back() < v) st.push_back(v);
-                // if st.back() == v -> continue, no action
             }
-            // if v == 0: do nothing (zeros separate segments)
         }
         while (!st.empty()) {
             if (st.back() > 0) ++ans;
