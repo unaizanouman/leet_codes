@@ -93,6 +93,7 @@ Contains all my solved leet-code problems
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/unaizanouman/leet_codes/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/unaizanouman/leet_codes/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/unaizanouman/leet_codes/tree/master/3797-design-spreadsheet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/unaizanouman/leet_codes/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/unaizanouman/leet_codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -221,6 +222,7 @@ Contains all my solved leet-code problems
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/unaizanouman/leet_codes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/unaizanouman/leet_codes/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/unaizanouman/leet_codes/tree/master/3797-design-spreadsheet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/unaizanouman/leet_codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/unaizanouman/leet_codes/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
@@ -368,6 +370,7 @@ Contains all my solved leet-code problems
 | [2618-maximize-the-minimum-powered-city](https://github.com/unaizanouman/leet_codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Trie
 |  |
 | ------- |
@@ -434,6 +437,7 @@ Contains all my solved leet-code problems
 | [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/unaizanouman/leet_codes/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/unaizanouman/leet_codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
 |  |
 | ------- |
@@ -477,6 +481,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/unaizanouman/leet_codes/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Depth-First Search
 |  |
 | ------- |
