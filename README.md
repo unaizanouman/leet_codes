@@ -121,6 +121,7 @@ Contains all my solved leet-code problems
 | [0065-valid-number](https://github.com/unaizanouman/leet_codes/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/unaizanouman/leet_codes/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/unaizanouman/leet_codes/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/unaizanouman/leet_codes/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
@@ -442,6 +443,7 @@ Contains all my solved leet-code problems
 | [0020-valid-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/unaizanouman/leet_codes/tree/master/0071-simplify-path) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/unaizanouman/leet_codes/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/unaizanouman/leet_codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
