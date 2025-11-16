@@ -253,6 +253,7 @@ Contains all my solved leet-code problems
 | [0047-permutations-ii](https://github.com/unaizanouman/leet_codes/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/unaizanouman/leet_codes/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/unaizanouman/leet_codes/tree/master/0052-n-queens-ii) |
+| [0077-combinations](https://github.com/unaizanouman/leet_codes/tree/master/0077-combinations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/unaizanouman/leet_codes/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
