@@ -80,6 +80,7 @@ Contains all my solved leet-code problems
 | [0041-first-missing-positive](https://github.com/unaizanouman/leet_codes/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/unaizanouman/leet_codes/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/unaizanouman/leet_codes/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -126,6 +127,7 @@ Contains all my solved leet-code problems
 | [0068-text-justification](https://github.com/unaizanouman/leet_codes/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/unaizanouman/leet_codes/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/unaizanouman/leet_codes/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/unaizanouman/leet_codes/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
@@ -150,6 +152,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/unaizanouman/leet_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/unaizanouman/leet_codes/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/unaizanouman/leet_codes/tree/master/0076-minimum-window-substring) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/unaizanouman/leet_codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/unaizanouman/leet_codes/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/unaizanouman/leet_codes/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
