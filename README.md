@@ -198,6 +198,7 @@ Contains all my solved leet-code problems
 | [0073-set-matrix-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/unaizanouman/leet_codes/tree/master/0078-subsets) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
@@ -258,6 +259,7 @@ Contains all my solved leet-code problems
 | [0051-n-queens](https://github.com/unaizanouman/leet_codes/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/unaizanouman/leet_codes/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/unaizanouman/leet_codes/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/unaizanouman/leet_codes/tree/master/0078-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/unaizanouman/leet_codes/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
@@ -379,6 +381,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/unaizanouman/leet_codes/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/unaizanouman/leet_codes/tree/master/0078-subsets) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/unaizanouman/leet_codes/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/unaizanouman/leet_codes/tree/master/3676-smallest-number-with-all-set-bits) |
