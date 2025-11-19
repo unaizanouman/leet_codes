@@ -129,6 +129,7 @@ Contains all my solved leet-code problems
 | [0071-simplify-path](https://github.com/unaizanouman/leet_codes/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/unaizanouman/leet_codes/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/unaizanouman/leet_codes/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/unaizanouman/leet_codes/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
@@ -200,6 +201,7 @@ Contains all my solved leet-code problems
 | [0074-search-a-2d-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/unaizanouman/leet_codes/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/unaizanouman/leet_codes/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
@@ -263,6 +265,7 @@ Contains all my solved leet-code problems
 | [0052-n-queens-ii](https://github.com/unaizanouman/leet_codes/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/unaizanouman/leet_codes/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/unaizanouman/leet_codes/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/unaizanouman/leet_codes/tree/master/0079-word-search) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/unaizanouman/leet_codes/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
@@ -275,6 +278,7 @@ Contains all my solved leet-code problems
 | [0064-minimum-path-sum](https://github.com/unaizanouman/leet_codes/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/unaizanouman/leet_codes/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/unaizanouman/leet_codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -525,6 +529,7 @@ Contains all my solved leet-code problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/unaizanouman/leet_codes/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/unaizanouman/leet_codes/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3863-power-grid-maintenance](https://github.com/unaizanouman/leet_codes/tree/master/3863-power-grid-maintenance) |
