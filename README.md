@@ -205,6 +205,7 @@ Contains all my solved leet-code problems
 | [0078-subsets](https://github.com/unaizanouman/leet_codes/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/unaizanouman/leet_codes/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/unaizanouman/leet_codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/unaizanouman/leet_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
@@ -298,6 +299,7 @@ Contains all my solved leet-code problems
 | [0035-search-insert-position](https://github.com/unaizanouman/leet_codes/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/unaizanouman/leet_codes/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/unaizanouman/leet_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1612-avoid-flood-in-the-city](https://github.com/unaizanouman/leet_codes/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/unaizanouman/leet_codes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/unaizanouman/leet_codes/tree/master/2618-maximize-the-minimum-powered-city) |
