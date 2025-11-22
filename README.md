@@ -14,6 +14,7 @@ Contains all my solved leet-code problems
 | [0025-reverse-nodes-in-k-group](https://github.com/unaizanouman/leet_codes/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/unaizanouman/leet_codes/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/unaizanouman/leet_codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/unaizanouman/leet_codes/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0147-insertion-sort-list](https://github.com/unaizanouman/leet_codes/tree/master/0147-insertion-sort-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/unaizanouman/leet_codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
