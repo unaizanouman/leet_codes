@@ -209,6 +209,7 @@ Contains all my solved leet-code problems
 | [0079-word-search](https://github.com/unaizanouman/leet_codes/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/unaizanouman/leet_codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/unaizanouman/leet_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/unaizanouman/leet_codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
@@ -497,6 +498,7 @@ Contains all my solved leet-code problems
 | [0032-longest-valid-parentheses](https://github.com/unaizanouman/leet_codes/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/unaizanouman/leet_codes/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/unaizanouman/leet_codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/unaizanouman/leet_codes/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/unaizanouman/leet_codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -543,6 +545,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/unaizanouman/leet_codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/unaizanouman/leet_codes/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Depth-First Search
