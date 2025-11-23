@@ -218,6 +218,7 @@ Contains all my solved leet-code problems
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/unaizanouman/leet_codes/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/unaizanouman/leet_codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/unaizanouman/leet_codes/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -355,6 +356,7 @@ Contains all my solved leet-code problems
 | [0072-edit-distance](https://github.com/unaizanouman/leet_codes/tree/master/0072-edit-distance) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/unaizanouman/leet_codes/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/unaizanouman/leet_codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/unaizanouman/leet_codes/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/unaizanouman/leet_codes/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/unaizanouman/leet_codes/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -381,6 +383,7 @@ Contains all my solved leet-code problems
 | [0147-insertion-sort-list](https://github.com/unaizanouman/leet_codes/tree/master/0147-insertion-sort-list) |
 | [0759-set-intersection-size-at-least-two](https://github.com/unaizanouman/leet_codes/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/unaizanouman/leet_codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/unaizanouman/leet_codes/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/unaizanouman/leet_codes/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -417,6 +420,7 @@ Contains all my solved leet-code problems
 | [0055-jump-game](https://github.com/unaizanouman/leet_codes/tree/master/0055-jump-game) |
 | [0759-set-intersection-size-at-least-two](https://github.com/unaizanouman/leet_codes/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/unaizanouman/leet_codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1612-avoid-flood-in-the-city](https://github.com/unaizanouman/leet_codes/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/unaizanouman/leet_codes/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/unaizanouman/leet_codes/tree/master/1700-minimum-time-to-make-rope-colorful) |
