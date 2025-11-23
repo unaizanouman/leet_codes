@@ -210,6 +210,7 @@ Contains all my solved leet-code problems
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/unaizanouman/leet_codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/unaizanouman/leet_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/unaizanouman/leet_codes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/unaizanouman/leet_codes/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
@@ -290,6 +291,7 @@ Contains all my solved leet-code problems
 | [0073-set-matrix-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/unaizanouman/leet_codes/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/unaizanouman/leet_codes/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/unaizanouman/leet_codes/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -355,6 +357,7 @@ Contains all my solved leet-code problems
 | [0064-minimum-path-sum](https://github.com/unaizanouman/leet_codes/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/unaizanouman/leet_codes/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/unaizanouman/leet_codes/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/unaizanouman/leet_codes/tree/master/0085-maximal-rectangle) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/unaizanouman/leet_codes/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/unaizanouman/leet_codes/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -499,6 +502,7 @@ Contains all my solved leet-code problems
 | [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/unaizanouman/leet_codes/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/unaizanouman/leet_codes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/unaizanouman/leet_codes/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/unaizanouman/leet_codes/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/unaizanouman/leet_codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -546,6 +550,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [0042-trapping-rain-water](https://github.com/unaizanouman/leet_codes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/unaizanouman/leet_codes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/unaizanouman/leet_codes/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/unaizanouman/leet_codes/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Depth-First Search
