@@ -37,6 +37,7 @@ Contains all my solved leet-code problems
 | [0070-climbing-stairs](https://github.com/unaizanouman/leet_codes/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/unaizanouman/leet_codes/tree/master/0830-largest-triangle-area) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/unaizanouman/leet_codes/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/unaizanouman/leet_codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -87,6 +88,7 @@ Contains all my solved leet-code problems
 | [0076-minimum-window-substring](https://github.com/unaizanouman/leet_codes/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/unaizanouman/leet_codes/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/unaizanouman/leet_codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/unaizanouman/leet_codes/tree/master/1612-avoid-flood-in-the-city) |
