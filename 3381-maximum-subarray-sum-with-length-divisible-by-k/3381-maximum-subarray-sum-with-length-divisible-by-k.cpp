@@ -11,13 +11,9 @@ public:
         for (int i = 1; i <= n; i++) {
             pref += nums[i - 1];
             int mod = i % k;
-
-            // Only compute if valid
             if (min_pref[mod] != LLONG_MAX) {
                 best = max(best, pref - min_pref[mod]);
             }
-
-            // Update min prefix
             min_pref[mod] = min(min_pref[mod], pref);
         }
 
