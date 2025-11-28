@@ -572,6 +572,7 @@ Contains all my solved leet-code problems
 | [0079-word-search](https://github.com/unaizanouman/leet_codes/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/unaizanouman/leet_codes/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/unaizanouman/leet_codes/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/unaizanouman/leet_codes/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
 |  |
@@ -603,4 +604,8 @@ Contains all my solved leet-code problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/unaizanouman/leet_codes/tree/master/0070-climbing-stairs) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/unaizanouman/leet_codes/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/unaizanouman/leet_codes/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
