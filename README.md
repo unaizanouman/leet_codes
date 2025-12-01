@@ -35,6 +35,7 @@ Contains all my solved leet-code problems
 | [0067-add-binary](https://github.com/unaizanouman/leet_codes/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/unaizanouman/leet_codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/unaizanouman/leet_codes/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/unaizanouman/leet_codes/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/unaizanouman/leet_codes/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/unaizanouman/leet_codes/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -292,6 +293,7 @@ Contains all my solved leet-code problems
 | [0077-combinations](https://github.com/unaizanouman/leet_codes/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/unaizanouman/leet_codes/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/unaizanouman/leet_codes/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/unaizanouman/leet_codes/tree/master/0089-gray-code) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/unaizanouman/leet_codes/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
@@ -432,6 +434,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [0067-add-binary](https://github.com/unaizanouman/leet_codes/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/unaizanouman/leet_codes/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/unaizanouman/leet_codes/tree/master/0089-gray-code) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/unaizanouman/leet_codes/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/unaizanouman/leet_codes/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/unaizanouman/leet_codes/tree/master/1930-unique-length-3-palindromic-subsequences) |
