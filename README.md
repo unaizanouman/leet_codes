@@ -218,6 +218,7 @@ Contains all my solved leet-code problems
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/unaizanouman/leet_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/unaizanouman/leet_codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/unaizanouman/leet_codes/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/unaizanouman/leet_codes/tree/master/0088-merge-sorted-array) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
@@ -355,6 +356,7 @@ Contains all my solved leet-code problems
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/unaizanouman/leet_codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/unaizanouman/leet_codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/unaizanouman/leet_codes/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/unaizanouman/leet_codes/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0165-compare-version-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/unaizanouman/leet_codes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/unaizanouman/leet_codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -402,6 +404,7 @@ Contains all my solved leet-code problems
 | [0049-group-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/unaizanouman/leet_codes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/unaizanouman/leet_codes/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/unaizanouman/leet_codes/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/unaizanouman/leet_codes/tree/master/0147-insertion-sort-list) |
 | [0759-set-intersection-size-at-least-two](https://github.com/unaizanouman/leet_codes/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
