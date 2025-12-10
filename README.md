@@ -559,6 +559,7 @@ Contains all my solved leet-code problems
 | [0071-simplify-path](https://github.com/unaizanouman/leet_codes/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/unaizanouman/leet_codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/unaizanouman/leet_codes/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/unaizanouman/leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/unaizanouman/leet_codes/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/unaizanouman/leet_codes/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/unaizanouman/leet_codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -615,6 +616,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0079-word-search](https://github.com/unaizanouman/leet_codes/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/unaizanouman/leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/unaizanouman/leet_codes/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/unaizanouman/leet_codes/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -655,9 +657,14 @@ Contains all my solved leet-code problems
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/unaizanouman/leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/unaizanouman/leet_codes/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/unaizanouman/leet_codes/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/unaizanouman/leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
