@@ -36,6 +36,7 @@ Contains all my solved leet-code problems
 | [0069-sqrtx](https://github.com/unaizanouman/leet_codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/unaizanouman/leet_codes/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/unaizanouman/leet_codes/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/unaizanouman/leet_codes/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/unaizanouman/leet_codes/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/unaizanouman/leet_codes/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -406,6 +407,7 @@ Contains all my solved leet-code problems
 | [0087-scramble-string](https://github.com/unaizanouman/leet_codes/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/unaizanouman/leet_codes/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/unaizanouman/leet_codes/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/unaizanouman/leet_codes/tree/master/0096-unique-binary-search-trees) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/unaizanouman/leet_codes/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/unaizanouman/leet_codes/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -668,6 +670,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/unaizanouman/leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/unaizanouman/leet_codes/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/unaizanouman/leet_codes/tree/master/0096-unique-binary-search-trees) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/unaizanouman/leet_codes/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Monotonic Queue
 |  |
@@ -678,8 +681,10 @@ Contains all my solved leet-code problems
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/unaizanouman/leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/unaizanouman/leet_codes/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/unaizanouman/leet_codes/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/unaizanouman/leet_codes/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/unaizanouman/leet_codes/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
