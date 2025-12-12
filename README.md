@@ -318,6 +318,7 @@ Contains all my solved leet-code problems
 | [0089-gray-code](https://github.com/unaizanouman/leet_codes/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/unaizanouman/leet_codes/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/unaizanouman/leet_codes/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/unaizanouman/leet_codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/unaizanouman/leet_codes/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
@@ -404,6 +405,7 @@ Contains all my solved leet-code problems
 | [0085-maximal-rectangle](https://github.com/unaizanouman/leet_codes/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/unaizanouman/leet_codes/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/unaizanouman/leet_codes/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/unaizanouman/leet_codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/unaizanouman/leet_codes/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/unaizanouman/leet_codes/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -665,6 +667,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/unaizanouman/leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/unaizanouman/leet_codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/unaizanouman/leet_codes/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Monotonic Queue
 |  |
@@ -674,4 +677,9 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/unaizanouman/leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/unaizanouman/leet_codes/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/unaizanouman/leet_codes/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
