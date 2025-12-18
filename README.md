@@ -629,6 +629,7 @@ Contains all my solved leet-code problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/unaizanouman/leet_codes/tree/master/0100-same-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/unaizanouman/leet_codes/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -647,6 +648,7 @@ Contains all my solved leet-code problems
 | [0079-word-search](https://github.com/unaizanouman/leet_codes/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/unaizanouman/leet_codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/unaizanouman/leet_codes/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/unaizanouman/leet_codes/tree/master/0100-same-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/unaizanouman/leet_codes/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/unaizanouman/leet_codes/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -693,6 +695,7 @@ Contains all my solved leet-code problems
 | [0095-unique-binary-search-trees-ii](https://github.com/unaizanouman/leet_codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/unaizanouman/leet_codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/unaizanouman/leet_codes/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/unaizanouman/leet_codes/tree/master/0100-same-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/unaizanouman/leet_codes/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/unaizanouman/leet_codes/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Monotonic Queue
@@ -706,6 +709,7 @@ Contains all my solved leet-code problems
 | [0095-unique-binary-search-trees-ii](https://github.com/unaizanouman/leet_codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/unaizanouman/leet_codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/unaizanouman/leet_codes/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/unaizanouman/leet_codes/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
