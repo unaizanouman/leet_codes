@@ -461,6 +461,7 @@ Contains all my solved leet-code problems
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/unaizanouman/leet_codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2092-find-all-people-with-secret](https://github.com/unaizanouman/leet_codes/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/unaizanouman/leet_codes/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/unaizanouman/leet_codes/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/unaizanouman/leet_codes/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -633,6 +634,7 @@ Contains all my solved leet-code problems
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/unaizanouman/leet_codes/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/unaizanouman/leet_codes/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/unaizanouman/leet_codes/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Stack
 |  |
@@ -651,6 +653,7 @@ Contains all my solved leet-code problems
 | [0100-same-tree](https://github.com/unaizanouman/leet_codes/tree/master/0100-same-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/unaizanouman/leet_codes/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/unaizanouman/leet_codes/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/unaizanouman/leet_codes/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/unaizanouman/leet_codes/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/unaizanouman/leet_codes/tree/master/3863-power-grid-maintenance) |
@@ -678,10 +681,12 @@ Contains all my solved leet-code problems
 ## Union Find
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/unaizanouman/leet_codes/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/unaizanouman/leet_codes/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/unaizanouman/leet_codes/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/unaizanouman/leet_codes/tree/master/3863-power-grid-maintenance) |
 ## Memoization
 |  |
