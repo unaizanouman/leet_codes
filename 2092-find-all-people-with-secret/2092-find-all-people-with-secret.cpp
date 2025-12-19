@@ -14,7 +14,6 @@ public:
             unordered_map<int, vector<int>> graph;
             unordered_set<int> people;
 
-            // collect all meetings at this time
             while (i < meetings.size() && meetings[i][2] == time) {
                 int x = meetings[i][0], y = meetings[i][1];
                 graph[x].push_back(y);
@@ -26,8 +25,6 @@ public:
 
             queue<int> q;
             unordered_set<int> visited;
-
-            // start BFS from people who already know the secret
             for (int p : people) {
                 if (knows[p]) {
                     q.push(p);
@@ -44,8 +41,6 @@ public:
                     }
                 }
             }
-
-            // update who learned the secret
             for (int p : visited) {
                 knows[p] = true;
             }
