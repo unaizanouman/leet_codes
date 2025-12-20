@@ -723,4 +723,8 @@ Contains all my solved leet-code problems
 | [0095-unique-binary-search-trees-ii](https://github.com/unaizanouman/leet_codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/unaizanouman/leet_codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/unaizanouman/leet_codes/tree/master/0098-validate-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/unaizanouman/leet_codes/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
