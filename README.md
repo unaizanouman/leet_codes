@@ -163,6 +163,7 @@ Contains all my solved leet-code problems
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/unaizanouman/leet_codes/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/unaizanouman/leet_codes/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/unaizanouman/leet_codes/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/unaizanouman/leet_codes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -252,6 +253,7 @@ Contains all my solved leet-code problems
 | [0830-largest-triangle-area](https://github.com/unaizanouman/leet_codes/tree/master/0830-largest-triangle-area) |
 | [0944-delete-columns-to-make-sorted](https://github.com/unaizanouman/leet_codes/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/unaizanouman/leet_codes/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/unaizanouman/leet_codes/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/unaizanouman/leet_codes/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -426,6 +428,7 @@ Contains all my solved leet-code problems
 | [0096-unique-binary-search-trees](https://github.com/unaizanouman/leet_codes/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/unaizanouman/leet_codes/tree/master/0097-interleaving-string) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/unaizanouman/leet_codes/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/unaizanouman/leet_codes/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/unaizanouman/leet_codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/unaizanouman/leet_codes/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
