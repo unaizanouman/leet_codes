@@ -743,4 +743,8 @@ Contains all my solved leet-code problems
 | ------- |
 | [0175-combine-two-tables](https://github.com/unaizanouman/leet_codes/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/unaizanouman/leet_codes/tree/master/0176-second-highest-salary) |
+## Concurrency
+|  |
+| ------- |
+| [1114-print-in-order](https://github.com/unaizanouman/leet_codes/tree/master/1114-print-in-order) |
 <!---LeetCode Topics End-->
