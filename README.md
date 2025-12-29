@@ -97,6 +97,7 @@ Contains all my solved leet-code problems
 | [0073-set-matrix-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/unaizanouman/leet_codes/tree/master/0076-minimum-window-substring) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
+| [0756-pyramid-transition-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0756-pyramid-transition-matrix) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/unaizanouman/leet_codes/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/unaizanouman/leet_codes/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -162,6 +163,7 @@ Contains all my solved leet-code problems
 | [0165-compare-version-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
+| [0756-pyramid-transition-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/unaizanouman/leet_codes/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/unaizanouman/leet_codes/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/unaizanouman/leet_codes/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -344,6 +346,7 @@ Contains all my solved leet-code problems
 | [0090-subsets-ii](https://github.com/unaizanouman/leet_codes/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/unaizanouman/leet_codes/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/unaizanouman/leet_codes/tree/master/0095-unique-binary-search-trees-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/unaizanouman/leet_codes/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
 |  |
@@ -509,6 +512,7 @@ Contains all my solved leet-code problems
 | [0078-subsets](https://github.com/unaizanouman/leet_codes/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/unaizanouman/leet_codes/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/unaizanouman/leet_codes/tree/master/0090-subsets-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/unaizanouman/leet_codes/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/unaizanouman/leet_codes/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/unaizanouman/leet_codes/tree/master/1930-unique-length-3-palindromic-subsequences) |
