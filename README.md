@@ -776,4 +776,5 @@ Contains all my solved leet-code problems
 | ------- |
 | [1114-print-in-order](https://github.com/unaizanouman/leet_codes/tree/master/1114-print-in-order) |
 | [1115-print-foobar-alternately](https://github.com/unaizanouman/leet_codes/tree/master/1115-print-foobar-alternately) |
+| [1116-print-zero-even-odd](https://github.com/unaizanouman/leet_codes/tree/master/1116-print-zero-even-odd) |
 <!---LeetCode Topics End-->
