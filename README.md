@@ -669,6 +669,7 @@ Contains all my solved leet-code problems
 | [0100-same-tree](https://github.com/unaizanouman/leet_codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/unaizanouman/leet_codes/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/unaizanouman/leet_codes/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/unaizanouman/leet_codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/unaizanouman/leet_codes/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -748,6 +749,7 @@ Contains all my solved leet-code problems
 | [0100-same-tree](https://github.com/unaizanouman/leet_codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/unaizanouman/leet_codes/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/unaizanouman/leet_codes/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/unaizanouman/leet_codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/unaizanouman/leet_codes/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/unaizanouman/leet_codes/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Monotonic Queue
@@ -765,6 +767,7 @@ Contains all my solved leet-code problems
 | [0100-same-tree](https://github.com/unaizanouman/leet_codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/unaizanouman/leet_codes/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/unaizanouman/leet_codes/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/unaizanouman/leet_codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
