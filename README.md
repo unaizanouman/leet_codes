@@ -42,6 +42,7 @@ Contains all my solved leet-code problems
 | [0840-magic-squares-in-grid](https://github.com/unaizanouman/leet_codes/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/unaizanouman/leet_codes/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/unaizanouman/leet_codes/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/unaizanouman/leet_codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/unaizanouman/leet_codes/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -268,6 +269,7 @@ Contains all my solved leet-code problems
 | [1262-greatest-sum-divisible-by-three](https://github.com/unaizanouman/leet_codes/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/unaizanouman/leet_codes/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/unaizanouman/leet_codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/unaizanouman/leet_codes/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/unaizanouman/leet_codes/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/unaizanouman/leet_codes/tree/master/1590-make-sum-divisible-by-p) |
