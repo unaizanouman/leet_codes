@@ -1,41 +1,32 @@
-class Solution {
+class Solution{
 public:
-    int largestRectangleArea(vector<int>& heights) {
-        stack<int> st;
-        heights.push_back(0);
-        int n = heights.size();
-        int maxArea = 0;
-
-        for (int i = 0; i < n; i++) {
-            while (!st.empty() && heights[i] < heights[st.top()]) {
-                int h = heights[st.top()];
-                st.pop();
-                int w = st.empty() ? i : i - st.top() - 1;
-                maxArea = max(maxArea, h * w);
+    int largestRectangleArea(vector<int>&h){
+        stack<int>st;
+        int n=h.size(),ans=0;
+        for(int i=0;i<=n;i++){
+            int cur=(i==n?0:h[i]);
+            while(!st.empty()&&cur<h[st.top()]){
+                int ht=h[st.top()]; st.pop();
+                int w=st.empty()?i:i-st.top()-1;
+                ans=max(ans,ht*w);
             }
             st.push(i);
         }
-        return maxArea;
+        return ans;
     }
-
-    int maximalRectangle(vector<vector<char>>& matrix) {   // FIXED HERE
-        if (matrix.empty()) return 0;
-
-        int rows = matrix.size();
-        int cols = matrix[0].size();
-        vector<int> heights(cols, 0);
-
-        int maxRect = 0;
-
-        for (int r = 0; r < rows; r++) {
-            for (int c = 0; c < cols; c++) {
-                if (matrix[r][c] == '1')       // FIXED: char not string
-                    heights[c]++;
-                else
-                    heights[c] = 0;
+    
+    int maximalRectangle(vector<vector<char>>&matrix){
+        if(matrix.empty()) return 0;
+        int r=matrix.size(),c=matrix[0].size(),ans=0;
+        vector<int>h(c,0);
+        
+        for(int i=0;i<r;i++){
+            for(int j=0;j<c;j++){
+                if(matrix[i][j]=='1') h[j]++;
+                else h[j]=0;
             }
-            maxRect = max(maxRect, largestRectangleArea(heights));
+            ans=max(ans,largestRectangleArea(h));
         }
-        return maxRect;
+        return ans;
     }
 };
