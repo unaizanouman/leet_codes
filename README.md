@@ -313,6 +313,7 @@ Contains all my solved leet-code problems
 | [3433-count-mentions-per-user](https://github.com/unaizanouman/leet_codes/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/unaizanouman/leet_codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/unaizanouman/leet_codes/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/unaizanouman/leet_codes/tree/master/3454-separate-squares-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/unaizanouman/leet_codes/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/unaizanouman/leet_codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/unaizanouman/leet_codes/tree/master/3531-count-covered-buildings) |
@@ -404,6 +405,7 @@ Contains all my solved leet-code problems
 | [2618-maximize-the-minimum-powered-city](https://github.com/unaizanouman/leet_codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/unaizanouman/leet_codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/unaizanouman/leet_codes/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/unaizanouman/leet_codes/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/unaizanouman/leet_codes/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/unaizanouman/leet_codes/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/unaizanouman/leet_codes/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -827,4 +829,12 @@ Contains all my solved leet-code problems
 | [1116-print-zero-even-odd](https://github.com/unaizanouman/leet_codes/tree/master/1116-print-zero-even-odd) |
 | [1117-building-h2o](https://github.com/unaizanouman/leet_codes/tree/master/1117-building-h2o) |
 | [1195-fizz-buzz-multithreaded](https://github.com/unaizanouman/leet_codes/tree/master/1195-fizz-buzz-multithreaded) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/unaizanouman/leet_codes/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/unaizanouman/leet_codes/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
