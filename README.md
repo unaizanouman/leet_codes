@@ -268,6 +268,7 @@ Contains all my solved leet-code problems
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/unaizanouman/leet_codes/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/unaizanouman/leet_codes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/unaizanouman/leet_codes/tree/master/0759-set-intersection-size-at-least-two) |
 | [0830-largest-triangle-area](https://github.com/unaizanouman/leet_codes/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/unaizanouman/leet_codes/tree/master/0840-magic-squares-in-grid) |
@@ -423,6 +424,7 @@ Contains all my solved leet-code problems
 | [0069-sqrtx](https://github.com/unaizanouman/leet_codes/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/unaizanouman/leet_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/unaizanouman/leet_codes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/unaizanouman/leet_codes/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/unaizanouman/leet_codes/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/unaizanouman/leet_codes/tree/master/1612-avoid-flood-in-the-city) |
