@@ -137,6 +137,7 @@ Contains all my solved leet-code problems
 | [3623-count-number-of-trapezoids-i](https://github.com/unaizanouman/leet_codes/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/unaizanouman/leet_codes/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/unaizanouman/leet_codes/tree/master/3678-design-task-manager) |
+| [3713-longest-balanced-substring-i](https://github.com/unaizanouman/leet_codes/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/unaizanouman/leet_codes/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/unaizanouman/leet_codes/tree/master/3721-longest-balanced-subarray-ii) |
 | [3797-design-spreadsheet](https://github.com/unaizanouman/leet_codes/tree/master/3797-design-spreadsheet) |
@@ -203,6 +204,7 @@ Contains all my solved leet-code problems
 | [3462-vowels-game-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/unaizanouman/leet_codes/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/unaizanouman/leet_codes/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/unaizanouman/leet_codes/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/unaizanouman/leet_codes/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/unaizanouman/leet_codes/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/unaizanouman/leet_codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -592,6 +594,7 @@ Contains all my solved leet-code problems
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/unaizanouman/leet_codes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/unaizanouman/leet_codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3713-longest-balanced-substring-i](https://github.com/unaizanouman/leet_codes/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -686,6 +689,7 @@ Contains all my solved leet-code problems
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/unaizanouman/leet_codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/unaizanouman/leet_codes/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/unaizanouman/leet_codes/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/unaizanouman/leet_codes/tree/master/3713-longest-balanced-substring-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/unaizanouman/leet_codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |
