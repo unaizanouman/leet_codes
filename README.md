@@ -464,6 +464,7 @@ Contains all my solved leet-code problems
 | [0004-median-of-two-sorted-arrays](https://github.com/unaizanouman/leet_codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/unaizanouman/leet_codes/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/unaizanouman/leet_codes/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/unaizanouman/leet_codes/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/unaizanouman/leet_codes/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/unaizanouman/leet_codes/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/unaizanouman/leet_codes/tree/master/3721-longest-balanced-subarray-ii) |
@@ -605,6 +606,7 @@ Contains all my solved leet-code problems
 | [0078-subsets](https://github.com/unaizanouman/leet_codes/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/unaizanouman/leet_codes/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/unaizanouman/leet_codes/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/unaizanouman/leet_codes/tree/master/0190-reverse-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/unaizanouman/leet_codes/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/unaizanouman/leet_codes/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
