@@ -404,6 +404,7 @@ Contains all my solved leet-code problems
 | [0090-subsets-ii](https://github.com/unaizanouman/leet_codes/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/unaizanouman/leet_codes/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/unaizanouman/leet_codes/tree/master/0095-unique-binary-search-trees-ii) |
+| [0401-binary-watch](https://github.com/unaizanouman/leet_codes/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/unaizanouman/leet_codes/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Matrix
@@ -607,6 +608,7 @@ Contains all my solved leet-code problems
 | [0089-gray-code](https://github.com/unaizanouman/leet_codes/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/unaizanouman/leet_codes/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/unaizanouman/leet_codes/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/unaizanouman/leet_codes/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/unaizanouman/leet_codes/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/unaizanouman/leet_codes/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
