@@ -181,6 +181,7 @@ Contains all my solved leet-code problems
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/unaizanouman/leet_codes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/unaizanouman/leet_codes/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/unaizanouman/leet_codes/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/unaizanouman/leet_codes/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/unaizanouman/leet_codes/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -466,6 +467,7 @@ Contains all my solved leet-code problems
 | [0023-merge-k-sorted-lists](https://github.com/unaizanouman/leet_codes/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/unaizanouman/leet_codes/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/unaizanouman/leet_codes/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/unaizanouman/leet_codes/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/unaizanouman/leet_codes/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/unaizanouman/leet_codes/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/unaizanouman/leet_codes/tree/master/3721-longest-balanced-subarray-ii) |
@@ -564,6 +566,7 @@ Contains all my solved leet-code problems
 | [0088-merge-sorted-array](https://github.com/unaizanouman/leet_codes/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/unaizanouman/leet_codes/tree/master/0147-insertion-sort-list) |
 | [0759-set-intersection-size-at-least-two](https://github.com/unaizanouman/leet_codes/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/unaizanouman/leet_codes/tree/master/0761-special-binary-string) |
 | [1018-largest-perimeter-triangle](https://github.com/unaizanouman/leet_codes/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/unaizanouman/leet_codes/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/unaizanouman/leet_codes/tree/master/1262-greatest-sum-divisible-by-three) |
