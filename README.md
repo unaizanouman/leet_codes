@@ -202,6 +202,7 @@ Contains all my solved leet-code problems
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/unaizanouman/leet_codes/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/unaizanouman/leet_codes/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/unaizanouman/leet_codes/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/unaizanouman/leet_codes/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/unaizanouman/leet_codes/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/unaizanouman/leet_codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/unaizanouman/leet_codes/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -227,6 +228,7 @@ Contains all my solved leet-code problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/unaizanouman/leet_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/unaizanouman/leet_codes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/unaizanouman/leet_codes/tree/master/0076-minimum-window-substring) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/unaizanouman/leet_codes/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/unaizanouman/leet_codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/unaizanouman/leet_codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/unaizanouman/leet_codes/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -544,6 +546,7 @@ Contains all my solved leet-code problems
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/unaizanouman/leet_codes/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/unaizanouman/leet_codes/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/unaizanouman/leet_codes/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/unaizanouman/leet_codes/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/unaizanouman/leet_codes/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/unaizanouman/leet_codes/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/unaizanouman/leet_codes/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
