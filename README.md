@@ -558,6 +558,7 @@ Contains all my solved leet-code problems
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/unaizanouman/leet_codes/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/unaizanouman/leet_codes/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/unaizanouman/leet_codes/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/unaizanouman/leet_codes/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/unaizanouman/leet_codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/unaizanouman/leet_codes/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -868,6 +869,7 @@ Contains all my solved leet-code problems
 | [2618-maximize-the-minimum-powered-city](https://github.com/unaizanouman/leet_codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/unaizanouman/leet_codes/tree/master/2625-increment-submatrices-by-one) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/unaizanouman/leet_codes/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/unaizanouman/leet_codes/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/unaizanouman/leet_codes/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/unaizanouman/leet_codes/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/unaizanouman/leet_codes/tree/master/3432-count-partitions-with-even-sum-difference) |
