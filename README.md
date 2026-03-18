@@ -359,6 +359,7 @@ Contains all my solved leet-code problems
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/unaizanouman/leet_codes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/unaizanouman/leet_codes/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/unaizanouman/leet_codes/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/unaizanouman/leet_codes/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/unaizanouman/leet_codes/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/unaizanouman/leet_codes/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/unaizanouman/leet_codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -461,6 +462,7 @@ Contains all my solved leet-code problems
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/unaizanouman/leet_codes/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/unaizanouman/leet_codes/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/unaizanouman/leet_codes/tree/master/2625-increment-submatrices-by-one) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/unaizanouman/leet_codes/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/unaizanouman/leet_codes/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3797-design-spreadsheet](https://github.com/unaizanouman/leet_codes/tree/master/3797-design-spreadsheet) |
 ## Binary Search
@@ -884,6 +886,7 @@ Contains all my solved leet-code problems
 | [2483-minimum-penalty-for-a-shop](https://github.com/unaizanouman/leet_codes/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/unaizanouman/leet_codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/unaizanouman/leet_codes/tree/master/2625-increment-submatrices-by-one) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/unaizanouman/leet_codes/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/unaizanouman/leet_codes/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/unaizanouman/leet_codes/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/unaizanouman/leet_codes/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
