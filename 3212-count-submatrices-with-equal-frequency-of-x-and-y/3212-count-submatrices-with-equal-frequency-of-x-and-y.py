@@ -1,11 +1,7 @@
 class Solution:
     def numberOfSubmatrices(self, grid):
         m, n = len(grid), len(grid[0])
-        
-        # prefix sum for (X=+1, Y=-1, .=0)
         prefix = [[0]*n for _ in range(m)]
-        
-        # prefix count for number of X
         x_count = [[0]*n for _ in range(m)]
         
         def value(c):
