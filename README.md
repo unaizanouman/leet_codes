@@ -381,6 +381,7 @@ Contains all my solved leet-code problems
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/unaizanouman/leet_codes/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/unaizanouman/leet_codes/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/unaizanouman/leet_codes/tree/master/3531-count-covered-buildings) |
+| [3546-equal-sum-grid-partition-i](https://github.com/unaizanouman/leet_codes/tree/master/3546-equal-sum-grid-partition-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/unaizanouman/leet_codes/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/unaizanouman/leet_codes/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/unaizanouman/leet_codes/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -467,6 +468,7 @@ Contains all my solved leet-code problems
 | [2625-increment-submatrices-by-one](https://github.com/unaizanouman/leet_codes/tree/master/2625-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/unaizanouman/leet_codes/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/unaizanouman/leet_codes/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/unaizanouman/leet_codes/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/unaizanouman/leet_codes/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/unaizanouman/leet_codes/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/unaizanouman/leet_codes/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -647,6 +649,7 @@ Contains all my solved leet-code problems
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/unaizanouman/leet_codes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/unaizanouman/leet_codes/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/unaizanouman/leet_codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/unaizanouman/leet_codes/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/unaizanouman/leet_codes/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
@@ -901,6 +904,7 @@ Contains all my solved leet-code problems
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/unaizanouman/leet_codes/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/unaizanouman/leet_codes/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/unaizanouman/leet_codes/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/unaizanouman/leet_codes/tree/master/3546-equal-sum-grid-partition-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/unaizanouman/leet_codes/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/unaizanouman/leet_codes/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/unaizanouman/leet_codes/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
