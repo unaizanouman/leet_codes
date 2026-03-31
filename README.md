@@ -222,6 +222,7 @@ Contains all my solved leet-code problems
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/unaizanouman/leet_codes/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/unaizanouman/leet_codes/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/unaizanouman/leet_codes/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/unaizanouman/leet_codes/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/unaizanouman/leet_codes/tree/master/3713-longest-balanced-substring-i) |
@@ -710,6 +711,7 @@ Contains all my solved leet-code problems
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/unaizanouman/leet_codes/tree/master/3074-apple-redistribution-into-boxes) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/unaizanouman/leet_codes/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/unaizanouman/leet_codes/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/unaizanouman/leet_codes/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/unaizanouman/leet_codes/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -840,6 +842,7 @@ Contains all my solved leet-code problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/unaizanouman/leet_codes/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Combinatorics
 |  |
 | ------- |
