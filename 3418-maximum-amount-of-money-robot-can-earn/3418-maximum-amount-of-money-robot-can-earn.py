@@ -1,0 +1,51 @@
+class Solution:
+    def maximumAmount(self, coins):
+        m, n = len(coins), len(coins[0])
+        
+        # dp array
+        dp = [[[float('-inf')] * 3 for _ in range(n)] for _ in range(m)]
+        
+        # starting point
+        for k in range(3):
+            if coins[0][0] >= 0:
+                dp[0][0][k] = coins[0][0]
+            else:
+                # either take loss or neutralize
+                dp[0][0][k] = coins[0][0]
+                if k > 0:
+                    dp[0][0][k] = 0
+        
+        for i in range(m):
+            for j in range(n):
+                for k in range(3):
+                    
+                    if i == 0 and j == 0:
+                        continue
+                    
+                    best_prev = float('-inf')
+                    
+                    # from top
+                    if i > 0:
+                        best_prev = max(best_prev, dp[i-1][j][k])
+                    
+                    # from left
+                    if j > 0:
+                        best_prev = max(best_prev, dp[i][j-1][k])
+                    
+                    if best_prev != float('-inf'):
+                        # take value
+                        dp[i][j][k] = max(dp[i][j][k], best_prev + coins[i][j])
+                    
+                    # if negative and can neutralize
+                    if coins[i][j] < 0 and k > 0:
+                        best_prev_neutral = float('-inf')
+                        
+                        if i > 0:
+                            best_prev_neutral = max(best_prev_neutral, dp[i-1][j][k-1])
+                        if j > 0:
+                            best_prev_neutral = max(best_prev_neutral, dp[i][j-1][k-1])
+                        
+                        if best_prev_neutral != float('-inf'):
+                            dp[i][j][k] = max(dp[i][j][k], best_prev_neutral)
+        
+        return max(dp[m-1][n-1])
