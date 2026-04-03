@@ -413,6 +413,7 @@ Contains all my solved leet-code problems
 | [3643-flip-square-submatrix-vertically](https://github.com/unaizanouman/leet_codes/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/unaizanouman/leet_codes/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/unaizanouman/leet_codes/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/unaizanouman/leet_codes/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/unaizanouman/leet_codes/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/unaizanouman/leet_codes/tree/master/3721-longest-balanced-subarray-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/unaizanouman/leet_codes/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -510,6 +511,7 @@ Contains all my solved leet-code problems
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/unaizanouman/leet_codes/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/unaizanouman/leet_codes/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/unaizanouman/leet_codes/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/unaizanouman/leet_codes/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -597,6 +599,7 @@ Contains all my solved leet-code problems
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/unaizanouman/leet_codes/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/unaizanouman/leet_codes/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/unaizanouman/leet_codes/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/unaizanouman/leet_codes/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/unaizanouman/leet_codes/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Geometry
 |  |
@@ -652,6 +655,7 @@ Contains all my solved leet-code problems
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/unaizanouman/leet_codes/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/unaizanouman/leet_codes/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/unaizanouman/leet_codes/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/unaizanouman/leet_codes/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Enumeration
 |  |
 | ------- |
