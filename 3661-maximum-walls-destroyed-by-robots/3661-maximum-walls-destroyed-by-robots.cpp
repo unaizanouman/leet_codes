@@ -8,9 +8,7 @@ public:
         int right = upper_bound(begin(walls), end(walls), r) - begin(walls);
 
         return right - left;
-
     }
-
     int solve(vector<int>& walls, vector<P>& roboDist, vector<P>& range, int i, int prevDir) {
 
         if(i == roboDist.size())
@@ -21,7 +19,7 @@ public:
 
         int leftStart = range[i].first;
 
-        if(prevDir == 1) { //prev robot fired bullet rtowards right
+        if(prevDir == 1) {
             leftStart = max(leftStart, range[i-1].second + 1);
         }
 
@@ -45,8 +43,6 @@ public:
 
         sort(begin(roboDist), end(roboDist));
         sort(begin(walls), end(walls));
-
-        //Prepare range vector for each robot
         vector<P> range(n);
 
         for(int i = 0; i < n; i++) {
@@ -63,8 +59,6 @@ public:
         }
 
         t.assign(n+1, vector<int>(2, -1));
-
-        //prev = 0/1 (previious robot hit buttlet to left/right)
         return solve(walls, roboDist, range, 0, 0);
     }
 };
