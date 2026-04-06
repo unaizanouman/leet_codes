@@ -112,6 +112,7 @@ Contains all my solved leet-code problems
 | [0756-pyramid-transition-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/unaizanouman/leet_codes/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/unaizanouman/leet_codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/unaizanouman/leet_codes/tree/master/0874-walking-robot-simulation) |
 | [1006-vowel-spellchecker](https://github.com/unaizanouman/leet_codes/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/unaizanouman/leet_codes/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/unaizanouman/leet_codes/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -306,6 +307,7 @@ Contains all my solved leet-code problems
 | [0759-set-intersection-size-at-least-two](https://github.com/unaizanouman/leet_codes/tree/master/0759-set-intersection-size-at-least-two) |
 | [0830-largest-triangle-area](https://github.com/unaizanouman/leet_codes/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/unaizanouman/leet_codes/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/unaizanouman/leet_codes/tree/master/0874-walking-robot-simulation) |
 | [0944-delete-columns-to-make-sorted](https://github.com/unaizanouman/leet_codes/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/unaizanouman/leet_codes/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/unaizanouman/leet_codes/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -747,6 +749,7 @@ Contains all my solved leet-code problems
 | [0067-add-binary](https://github.com/unaizanouman/leet_codes/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/unaizanouman/leet_codes/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/unaizanouman/leet_codes/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/unaizanouman/leet_codes/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/unaizanouman/leet_codes/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/unaizanouman/leet_codes/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/unaizanouman/leet_codes/tree/master/1642-water-bottles) |
