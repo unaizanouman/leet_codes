@@ -754,6 +754,7 @@ Contains all my solved leet-code problems
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/unaizanouman/leet_codes/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/unaizanouman/leet_codes/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/unaizanouman/leet_codes/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/unaizanouman/leet_codes/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/unaizanouman/leet_codes/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/unaizanouman/leet_codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/unaizanouman/leet_codes/tree/master/2169-simple-bank-system) |
@@ -843,6 +844,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [1622-fancy-sequence](https://github.com/unaizanouman/leet_codes/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/unaizanouman/leet_codes/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/unaizanouman/leet_codes/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/unaizanouman/leet_codes/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/unaizanouman/leet_codes/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/unaizanouman/leet_codes/tree/master/3678-design-task-manager) |
