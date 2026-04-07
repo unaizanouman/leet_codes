@@ -3,21 +3,16 @@ class Robot:
     def __init__(self, width, height):
         self.w = width
         self.h = height
-        
         self.x = 0
         self.y = 0
-        
-        self.dir = 0  # 0=East, 1=North, 2=West, 3=South
+        self.dir = 0 
         
         self.perimeter = 2 * (width + height) - 4
-        self.moved = False  # to handle special case
-
+        self.moved = False
     def step(self, num):
         self.moved = True
         
         num %= self.perimeter
-        
-        # special case: full cycle
         if num == 0:
             num = self.perimeter
         
@@ -36,8 +31,6 @@ class Robot:
                 self.y -= steps
             
             num -= steps
-            
-            # if can't move further → turn
             if num > 0:
                 self.dir = (self.dir + 1) % 4
 
@@ -46,8 +39,6 @@ class Robot:
 
     def getDir(self):
         directions = ["East", "North", "West", "South"]
-        
-        # special case: never moved
         if not self.moved:
             return "East"
         
