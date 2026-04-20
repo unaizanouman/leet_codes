@@ -352,6 +352,7 @@ Contains all my solved leet-code problems
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/unaizanouman/leet_codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2023-design-movie-rental-system](https://github.com/unaizanouman/leet_codes/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/unaizanouman/leet_codes/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/unaizanouman/leet_codes/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/unaizanouman/leet_codes/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/unaizanouman/leet_codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/unaizanouman/leet_codes/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -745,6 +746,7 @@ Contains all my solved leet-code problems
 | [1834-minimum-number-of-people-to-teach](https://github.com/unaizanouman/leet_codes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/unaizanouman/leet_codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/unaizanouman/leet_codes/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/unaizanouman/leet_codes/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/unaizanouman/leet_codes/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/unaizanouman/leet_codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
