@@ -131,6 +131,7 @@ Contains all my solved leet-code problems
 | [2274-keep-multiplying-found-values-by-two](https://github.com/unaizanouman/leet_codes/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/unaizanouman/leet_codes/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/unaizanouman/leet_codes/tree/master/2429-design-a-food-rating-system) |
+| [2615-sum-of-distances](https://github.com/unaizanouman/leet_codes/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/unaizanouman/leet_codes/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/unaizanouman/leet_codes/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -371,6 +372,7 @@ Contains all my solved leet-code problems
 | [2452-words-within-two-edits-of-dictionary](https://github.com/unaizanouman/leet_codes/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/unaizanouman/leet_codes/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/unaizanouman/leet_codes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/unaizanouman/leet_codes/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/unaizanouman/leet_codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/unaizanouman/leet_codes/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -960,6 +962,7 @@ Contains all my solved leet-code problems
 | [1895-largest-magic-square](https://github.com/unaizanouman/leet_codes/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/unaizanouman/leet_codes/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/unaizanouman/leet_codes/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/unaizanouman/leet_codes/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/unaizanouman/leet_codes/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/unaizanouman/leet_codes/tree/master/2625-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/unaizanouman/leet_codes/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
