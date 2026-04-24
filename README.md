@@ -230,6 +230,7 @@ Contains all my solved leet-code problems
 | [2452-words-within-two-edits-of-dictionary](https://github.com/unaizanouman/leet_codes/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/unaizanouman/leet_codes/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/unaizanouman/leet_codes/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/unaizanouman/leet_codes/tree/master/2833-furthest-point-from-origin) |
 | [2887-sort-vowels-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/unaizanouman/leet_codes/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/unaizanouman/leet_codes/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -824,6 +825,7 @@ Contains all my solved leet-code problems
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/unaizanouman/leet_codes/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/unaizanouman/leet_codes/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2833-furthest-point-from-origin](https://github.com/unaizanouman/leet_codes/tree/master/2833-furthest-point-from-origin) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/unaizanouman/leet_codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/unaizanouman/leet_codes/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/unaizanouman/leet_codes/tree/master/3583-count-special-triplets) |
