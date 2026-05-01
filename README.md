@@ -40,6 +40,7 @@ Contains all my solved leet-code problems
 | [0089-gray-code](https://github.com/unaizanouman/leet_codes/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/unaizanouman/leet_codes/tree/master/0096-unique-binary-search-trees) |
 | [0166-fraction-to-recurring-decimal](https://github.com/unaizanouman/leet_codes/tree/master/0166-fraction-to-recurring-decimal) |
+| [0396-rotate-function](https://github.com/unaizanouman/leet_codes/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/unaizanouman/leet_codes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/unaizanouman/leet_codes/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/unaizanouman/leet_codes/tree/master/0840-magic-squares-in-grid) |
@@ -312,6 +313,7 @@ Contains all my solved leet-code problems
 | [0088-merge-sorted-array](https://github.com/unaizanouman/leet_codes/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/unaizanouman/leet_codes/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/unaizanouman/leet_codes/tree/master/0118-pascals-triangle) |
+| [0396-rotate-function](https://github.com/unaizanouman/leet_codes/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
@@ -618,6 +620,7 @@ Contains all my solved leet-code problems
 | [0096-unique-binary-search-trees](https://github.com/unaizanouman/leet_codes/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/unaizanouman/leet_codes/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/unaizanouman/leet_codes/tree/master/0118-pascals-triangle) |
+| [0396-rotate-function](https://github.com/unaizanouman/leet_codes/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/unaizanouman/leet_codes/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/unaizanouman/leet_codes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/unaizanouman/leet_codes/tree/master/0799-champagne-tower) |
