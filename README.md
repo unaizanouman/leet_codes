@@ -356,6 +356,7 @@ Contains all my solved leet-code problems
 | [1834-minimum-number-of-people-to-teach](https://github.com/unaizanouman/leet_codes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/unaizanouman/leet_codes/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/unaizanouman/leet_codes/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/unaizanouman/leet_codes/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/unaizanouman/leet_codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/unaizanouman/leet_codes/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/unaizanouman/leet_codes/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -510,6 +511,7 @@ Contains all my solved leet-code problems
 | [1559-detect-cycles-in-2d-grid](https://github.com/unaizanouman/leet_codes/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/unaizanouman/leet_codes/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/unaizanouman/leet_codes/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/unaizanouman/leet_codes/tree/master/1861-rotating-the-box) |
 | [1895-largest-magic-square](https://github.com/unaizanouman/leet_codes/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/unaizanouman/leet_codes/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/unaizanouman/leet_codes/tree/master/1975-maximum-matrix-sum) |
@@ -596,6 +598,7 @@ Contains all my solved leet-code problems
 | [0088-merge-sorted-array](https://github.com/unaizanouman/leet_codes/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/unaizanouman/leet_codes/tree/master/0165-compare-version-numbers) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/unaizanouman/leet_codes/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/unaizanouman/leet_codes/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/unaizanouman/leet_codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/unaizanouman/leet_codes/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/unaizanouman/leet_codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
