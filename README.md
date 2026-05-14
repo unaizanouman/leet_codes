@@ -137,6 +137,7 @@ Contains all my solved leet-code problems
 | [2429-design-a-food-rating-system](https://github.com/unaizanouman/leet_codes/tree/master/2429-design-a-food-rating-system) |
 | [2615-sum-of-distances](https://github.com/unaizanouman/leet_codes/tree/master/2615-sum-of-distances) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2784-check-if-array-is-good](https://github.com/unaizanouman/leet_codes/tree/master/2784-check-if-array-is-good) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/unaizanouman/leet_codes/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/unaizanouman/leet_codes/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/unaizanouman/leet_codes/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -389,6 +390,7 @@ Contains all my solved leet-code problems
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/unaizanouman/leet_codes/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2751-robot-collisions](https://github.com/unaizanouman/leet_codes/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/unaizanouman/leet_codes/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2784-check-if-array-is-good](https://github.com/unaizanouman/leet_codes/tree/master/2784-check-if-array-is-good) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/unaizanouman/leet_codes/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/unaizanouman/leet_codes/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/unaizanouman/leet_codes/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -706,6 +708,7 @@ Contains all my solved leet-code problems
 | [2402-meeting-rooms-iii](https://github.com/unaizanouman/leet_codes/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/unaizanouman/leet_codes/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/unaizanouman/leet_codes/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/unaizanouman/leet_codes/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/unaizanouman/leet_codes/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/unaizanouman/leet_codes/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/unaizanouman/leet_codes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
