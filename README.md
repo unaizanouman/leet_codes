@@ -316,6 +316,7 @@ Contains all my solved leet-code problems
 | [0088-merge-sorted-array](https://github.com/unaizanouman/leet_codes/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/unaizanouman/leet_codes/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/unaizanouman/leet_codes/tree/master/0118-pascals-triangle) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/unaizanouman/leet_codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/unaizanouman/leet_codes/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/unaizanouman/leet_codes/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/unaizanouman/leet_codes/tree/master/0417-pacific-atlantic-water-flow) |
@@ -545,6 +546,7 @@ Contains all my solved leet-code problems
 | [0069-sqrtx](https://github.com/unaizanouman/leet_codes/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/unaizanouman/leet_codes/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/unaizanouman/leet_codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/unaizanouman/leet_codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/unaizanouman/leet_codes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/unaizanouman/leet_codes/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/unaizanouman/leet_codes/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
